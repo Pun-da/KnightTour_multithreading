@@ -1,11 +1,13 @@
 # Knight's Tour - An improvised Warnsdorff's algorithm
-
+*****
+This was done as part of an assignment of course CS F372 - Operating Systems at BITS Pilani.
+*****
 ## Problem Statement : 
 
 To solve the knight’s tour problem given an NxN board and the starting position (X, Y) of the knight. <br>
-Constraints : <br>
->> **0 <= N <= 50** <br>
->> **0 <= X, Y <= N - 1** (Zero-indexed)<br>
+**Constraints** : <br>
+`0 <= N <= 50` <br>
+`0 <= X, Y <= N - 1` (Zero-indexed)<br>
 
 ## Building an algorithm : 
 
