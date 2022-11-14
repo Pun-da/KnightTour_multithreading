@@ -1,8 +1,8 @@
-/* Do not make any changes in the skeleton. Your submission will be invalidated if the skeleton is changed */
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
 #include <time.h>
+
 // can be made local if required
 int N;
 typedef struct
